@@ -26,7 +26,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/shoryarajput21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shoryarajput21" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/shorya rajput" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shorya rajput" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/Shorya Rajput" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shorya rajput" height="30" width="40" /></a>
 <a href="https://fb.com/shorya rajput" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shorya rajput" height="30" width="40" /></a>
 <a href="https://instagram.com/shorya_rajput_21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shorya_rajput_21" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/coding guru ji" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="coding guru ji" height="30" width="40" /></a>
