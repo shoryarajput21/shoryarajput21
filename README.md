@@ -1,4 +1,4 @@
-![MasterHead](https://wallpapercave.com/wp/wp9641787.jpg)
+![MasterHead](https://images.app.goo.gl/wHU56dzDpaaLXEEa6)
 
 <h1 align="center">Hi 👋, I'm Shorya Rajput</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
