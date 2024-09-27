@@ -1,4 +1,4 @@
-![MasterHead](https://images.app.goo.gl/wHU56dzDpaaLXEEa6)
+![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpPdkZhNs6M0MWqfYpeclIu-LV5HEY9yKqGg&usqp=CAU)
 
 <h1 align="center">Hi 👋, I'm Shorya Rajput</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
