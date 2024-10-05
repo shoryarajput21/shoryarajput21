@@ -1,4 +1,4 @@
-![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpPdkZhNs6M0MWqfYpeclIu-LV5HEY9yKqGg&usqp=CAU)
+![MasterHead](https://wallpapercave.com/wp/wp7545334.jpg)
 
 <h1 align="center">Hi 👋, I'm Shorya Rajput</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
