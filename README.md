@@ -1,7 +1,7 @@
 ![MasterHead](https://wallpapercave.com/wp/wp7545334.jpg)
 
 <h1 align="center">Hi 👋, I'm Shorya Rajput</h1>
-<h3 align="center">A passionate Full Stack Developer from India</h3>
+<h3 align="center">A passionate Full Stack Developer | Innovix Tech</h3>
 
 <img align="right" alt="Coding" width="400" src="https://img.freepik.com/premium-photo/portrait-successful-programmer-game-developer-coder-guy-uses-computer-laptop-work-game-design-hacker-boy-generative-ai-cyber-gamer_117038-7605.jpg" alt="">
 
@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/shoryarajput21" target="blank"><img src="https://img.shields.io/twitter/follow/shoryarajput21?logo=twitter&style=for-the-badge" alt="shoryarajput21" /></a> </p>
 
-- 🌱 I’m currently learning **Fullstack Developer**
+- 🌱 I’m currently Learning **Next.js** and **Cloud Deployment**
 
 - 👨‍💻 All of my projects are available at [http://pre-coder-in.vercel.app](http://pre-coder-in.vercel.app)
 
