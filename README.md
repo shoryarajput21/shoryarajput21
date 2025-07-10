@@ -1,7 +1,7 @@
 ![MasterHead](https://wallpapercave.com/wp/wp7545334.jpg)
 
 <h1 align="center">Hi 👋, I'm Shorya Rajput</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Full Stack Developer from India</h3>
 
 <img align="right" alt="Coding" width="400" src="https://img.freepik.com/premium-photo/portrait-successful-programmer-game-developer-coder-guy-uses-computer-laptop-work-game-design-hacker-boy-generative-ai-cyber-gamer_117038-7605.jpg" alt="">
 
